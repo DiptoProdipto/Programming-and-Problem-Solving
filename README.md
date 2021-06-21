@@ -1,2 +1,2 @@
 # Programming-and-Problem-Solving
-This repository contains C programs.
+This repository contains some basic C programs for my Programming and Problem Solving course.
